@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>he subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="存储" title="存储">
+            <outline type="rss" text="唐僧_huangliang" title="唐僧_huangliang" xmlUrl="http://blog.sina.com.cn/rss/1765830541.xml" htmlUrl="http://blog.sina.com.cn/firegl"/>
+            <outline type="rss" text="Super User Blog" title="Super User Blog" xmlUrl="http://blog.superuser.com/feed/" htmlUrl="http://blog.superuser.com"/>
+            <outline type="rss" text="pingfan2" title="pingfan2" xmlUrl="http://home.chinaunix.com/rss.php?uid=14283731"/>
+            <outline type="rss" text="云存储技术博客：光头老蒋(云存储技术，虚拟化，IP存储， 数据库容灾等）" title="云存储技术博客：光头老蒋(云存储技术，虚拟化，IP存储， 数据库容灾等）" xmlUrl="http://www.click2earth.com/rss.xml"/>
+            <outline type="rss" text="存储人生" title="存储人生" xmlUrl="http://www.storageonline.com.cn/feed/" htmlUrl="http://www.storageonline.com.cn"/>
+        </outline>
+        <outline text="Dr Dobb" title="Dr Dobb">
+            <outline type="rss" text="Dr. Dobb's Articles" title="Dr. Dobb's Articles" xmlUrl="http://www.drdobbs.com/articles/rss" htmlUrl="http://www.drdobbs.com/"/>
+        </outline>
+        <outline text="SQL Server" title="SQL Server">
+            <outline type="rss" text="Kalen Delaney" title="Kalen Delaney" xmlUrl="http://sqlblog.com/blogs/kalen_delaney/rss.aspx" htmlUrl="http://sqlblog.com/blogs/kalen_delaney/default.aspx"/>
+        </outline>
+        <outline text="Performance" title="Performance">
+            <outline type="rss" text="Cary Millsap" title="Cary Millsap" xmlUrl="http://carymillsap.blogspot.com/feeds/posts/default" htmlUrl="http://carymillsap.blogspot.com/"/>
+            <outline type="rss" text="The Pith of Performance" title="The Pith of Performance" xmlUrl="http://perfdynamics.blogspot.com/feeds/posts/default" htmlUrl="http://perfdynamics.blogspot.com/"/>
+            <outline type="rss" text="CMG News" title="CMG News" xmlUrl="http://www.cmg.org/cmgnews/rss/news_feed.xml" htmlUrl="http://www.cmg.org/cmgnews/items/"/>
+        </outline>
+        <outline text="platform and web services" title="platform and web services">
+            <outline type="rss" text="Srinath's Blog :My views of the World" title="Srinath's Blog :My views of the World" xmlUrl="http://srinathsview.blogspot.com/feeds/posts/default" htmlUrl="http://srinathsview.blogspot.com/"/>
+        </outline>
+        <outline text="NoSQL_NewSQL" title="NoSQL_NewSQL">
+            <outline type="rss" text="DBMS 2 : DataBase Management System Services" title="DBMS 2 : DataBase Management System Services" xmlUrl="http://www.dbms2.com/feed/" htmlUrl="http://www.dbms2.com"/>
+            <outline type="rss" text="HBase" title="HBase" xmlUrl="http://hadoop-hbase.blogspot.com/feeds/posts/default" htmlUrl="http://hadoop-hbase.blogspot.com/"/>
+        </outline>
+        <outline text="mysql" title="mysql">
+            <outline type="rss" text="--i-am-a-dummy" title="--i-am-a-dummy" xmlUrl="http://moinne.com/blog/ronald/feed" htmlUrl="http://moinne.com/blog/ronald"/>
+            <outline type="rss" text="On compiling TokuDB from source | code.openark.org" title="On compiling TokuDB from source | code.openark.org" xmlUrl="http://code.openark.org/blog/feed" htmlUrl="http://code.openark.org/blog"/>
+            <outline type="rss" text="MySQL Testing" title="MySQL Testing" xmlUrl="https://blogs.oracle.com/mysqltesting/feed/entries/atom" htmlUrl="https://blogs.oracle.com/mysqltesting/"/>
+            <outline type="rss" text="Indexing and Caching" title="Indexing and Caching" xmlUrl="http://www.jonathanlevin.co.uk/feeds/posts/default" htmlUrl="http://www.jonathanlevin.co.uk/"/>
+            <outline type="rss" text="Xaprb" title="Xaprb" xmlUrl="http://www.xaprb.com/blog/feed/" htmlUrl="http://www.xaprb.com/blog"/>
+            <outline type="rss" text="About MySQL development (Optimizer mainly)" title="About MySQL development (Optimizer mainly)" xmlUrl="http://guilhembichot.blogspot.com/feeds/posts/default" htmlUrl="http://guilhembichot.blogspot.com/"/>
+            <outline type="rss" text="Jeremy Cole" title="Jeremy Cole" xmlUrl="http://blog.jcole.us/feed/" htmlUrl="http://blog.jcole.us"/>
+            <outline type="rss" text="The MySQL Cluster storage engine | Ramblings" title="The MySQL Cluster storage engine | Ramblings" xmlUrl="http://www.flamingspork.com/blog/feed/" htmlUrl="https://www.flamingspork.com/blog"/>
+            <outline type="rss" text="Blog of (former?) MySQL Entomologist" title="Blog of (former?) MySQL Entomologist" xmlUrl="http://mysqlentomologist.blogspot.com/feeds/posts/default" htmlUrl="http://mysqlentomologist.blogspot.com/"/>
+            <outline type="rss" text="Scripting MySQL" title="Scripting MySQL" xmlUrl="http://scriptingmysql.wordpress.com/feed/" htmlUrl="http://scriptingmysql.wordpress.com"/>
+            <outline type="rss" text="Planet MySQL" title="Planet MySQL" xmlUrl="http://cn.planet.mysql.com/rss20.cn.xml" htmlUrl="http://www.planetmysql.org/"/>
+            <outline type="rss" text="Yoshinori Matsunobu's blog" title="Yoshinori Matsunobu's blog" xmlUrl="http://yoshinorimatsunobu.blogspot.com/feeds/posts/default" htmlUrl="http://yoshinorimatsunobu.blogspot.com/"/>
+            <outline type="rss" text="DimitriK's (dim) Weblog" title="DimitriK's (dim) Weblog" xmlUrl="http://dimitrik.free.fr/blog/rss.xml" htmlUrl="http://dimitrik.free.fr/blog/index.html"/>
+            <outline type="rss" text="message passing" title="message passing" xmlUrl="http://messagepassing.blogspot.com/feeds/posts/default" htmlUrl="http://messagepassing.blogspot.com/"/>
+            <outline type="rss" text="Effective MySQL" title="Effective MySQL" xmlUrl="http://effectivemysql.com/feed/" htmlUrl="http://effectiveMySQL.com"/>
+            <outline type="rss" text="Sveta's blog" title="Sveta's blog" xmlUrl="https://blogs.oracle.com/svetasmirnova/feed/entries/atom" htmlUrl="https://blogs.oracle.com/svetasmirnova/"/>
+            <outline type="rss" text="Andrew Morgan's MySQL Cluster Database Blog" title="Andrew Morgan's MySQL Cluster Database Blog" xmlUrl="http://www.clusterdb.com/feed/" htmlUrl="http://www.clusterdb.com"/>
+            <outline type="rss" text="Transactions on InnoDB" title="Transactions on InnoDB" xmlUrl="http://blogs.innodb.com/wp/feed/"/>
+            <outline type="rss" text="Latest Developer Updates from MySQL AB" title="Latest Developer Updates from MySQL AB" xmlUrl="http://dev.mysql.com/mysql.rss" htmlUrl="http://dev.mysql.com/"/>
+            <outline type="rss" text="深入MySQL内核" title="深入MySQL内核" xmlUrl="http://feed.feedsky.com/hedengcheng" htmlUrl="http://hedengcheng.com"/>
+            <outline type="rss" text="The Falcon Blog" title="The Falcon Blog" xmlUrl="http://carotid.blogspot.com/feeds/posts/default" htmlUrl="http://carotid.blogspot.com/"/>
+            <outline type="rss" text="MySQL Preacher" title="MySQL Preacher" xmlUrl="http://mysqlpreacher.com/wordpress/feed/rss/" htmlUrl="http://mysqlpreacher.com/wordpress"/>
+            <outline type="rss" text="功正王公仆的技术博客" title="功正王公仆的技术博客" xmlUrl="http://wanggongpu2005.blog.163.com/rss/" htmlUrl="http://wanggongpu2005.blog.163.com"/>
+            <outline type="rss" text="追风刀·丁奇" title="追风刀·丁奇" xmlUrl="http://dinglin.iteye.com/rss" htmlUrl="http://dinglin.iteye.com"/>
+            <outline type="rss" text="Planet MySQL" title="Planet MySQL" xmlUrl="http://planet.mysql.com/rss20.xml" htmlUrl="http://www.planetmysql.org/"/>
+            <outline type="rss" text="MySQL Optimizer Team blogs" title="MySQL Optimizer Team blogs" xmlUrl="http://mysqloptimizerteam.blogspot.com/feeds/posts/default" htmlUrl="http://mysqloptimizerteam.blogspot.com/"/>
+            <outline type="rss" text="Twitter Engineering" title="Twitter Engineering" xmlUrl="http://engineering.twitter.com/feeds/posts/default" htmlUrl="https://blog.twitter.com/"/>
+            <outline type="rss" text="MySQL Blogs" title="MySQL Blogs" xmlUrl="http://www.tusacentral.net/joomla/index.php/mysql-blogs?format=feed&amp;type=rss" htmlUrl="http://www.tusacentral.net/joomla/index.php/mysql-blogs.html"/>
+            <outline type="rss" text="Mikael Ronstrom" title="Mikael Ronstrom" xmlUrl="http://mikaelronstrom.blogspot.com/feeds/posts/default" htmlUrl="http://mikaelronstrom.blogspot.com/"/>
+            <outline type="rss" text="High Availability MySQL" title="High Availability MySQL" xmlUrl="http://mysqlha.blogspot.com/feeds/posts/default" htmlUrl="http://mysqlha.blogspot.com/"/>
+            <outline type="rss" text="Notes of an optimizer reviewer" title="Notes of an optimizer reviewer" xmlUrl="http://igors-notes.blogspot.com/feeds/posts/default" htmlUrl="http://igors-notes.blogspot.com/"/>
+            <outline type="rss" text="Jørgen's point of view" title="Jørgen's point of view" xmlUrl="http://jorgenloland.blogspot.com/feeds/posts/default" htmlUrl="http://jorgenloland.blogspot.com/"/>
+            <outline type="rss" text="Anitha's Musings" title="Anitha's Musings" xmlUrl="http://anithagopi.blogspot.com/feeds/posts/default" htmlUrl="http://anithagopi.blogspot.com/"/>
+            <outline type="rss" text="Alexander Nozdrin" title="Alexander Nozdrin" xmlUrl="http://alexandernozdrin.blogspot.com/feeds/posts/default" htmlUrl="http://alexandernozdrin.blogspot.com/"/>
+            <outline type="rss" text="Øystein on MySQL Optimizer" title="Øystein on MySQL Optimizer" xmlUrl="http://oysteing.blogspot.com/feeds/posts/default" htmlUrl="http://oysteing.blogspot.com/"/>
+            <outline type="rss" text="Transactions on InnoDB" title="Transactions on InnoDB" xmlUrl="https://blogs.oracle.com/mysqlinnodb/feed/entries/atom" htmlUrl="https://blogs.oracle.com/mysqlinnodb/"/>
+            <outline type="rss" text="tocker.ca" title="tocker.ca" xmlUrl="http://www.tocker.ca/rss.xml" htmlUrl="http://www.tocker.ca/"/>
+            <outline type="rss" text="Olav Sandstå" title="Olav Sandstå" xmlUrl="http://olavsandstaa.blogspot.com/feeds/posts/default" htmlUrl="http://olavsandstaa.blogspot.com/"/>
+            <outline type="rss" text="MySQL Performance Blog" title="MySQL Performance Blog" xmlUrl="http://www.mysqlperformanceblog.com/feed/" htmlUrl="http://www.mysqlperformanceblog.com"/>
+            <outline type="rss" text="Johan Andersson's Cluster and HA Blog" title="Johan Andersson's Cluster and HA Blog" xmlUrl="http://johanandersson.blogspot.com/feeds/posts/default" htmlUrl="http://johanandersson.blogspot.com/"/>
+            <outline type="rss" text="MySQL Expert | MySQL Performance | MySQL Consulting" title="MySQL Expert | MySQL Performance | MySQL Consulting" xmlUrl="http://ronaldbradford.com/blog/?feed=atom" htmlUrl="http://ronaldbradford.com/blog"/>
+            <outline type="rss" text="MySQL Fanboy" title="MySQL Fanboy" xmlUrl="http://www.mysqlfanboy.com/feed/" htmlUrl="http://www.mysqlfanboy.com"/>
+            <outline type="rss" text="MySQL Musings" title="MySQL Musings" xmlUrl="http://mysqlmusings.blogspot.com/feeds/posts/default" htmlUrl="http://mysqlmusings.blogspot.com/"/>
+            <outline type="rss" text="Oracle's MySQL Blog" title="Oracle's MySQL Blog" xmlUrl="http://blogs.oracle.com/MySQL/feed/entries/atom" htmlUrl="https://blogs.oracle.com/MySQL/"/>
+            <outline type="rss" text="MySQL Support Blogs" title="MySQL Support Blogs" xmlUrl="http://dev.mysql.com/support/blogs/rss.html" htmlUrl="http://http://dev.mysql.com/support/blogs/"/>
+            <outline type="rss" text="InsideMySQL.com" title="InsideMySQL.com" xmlUrl="http://insidemysql.com/feed/" htmlUrl="http://insidemysql.com"/>
+            <outline type="rss" text="MySQL" title="MySQL" xmlUrl="http://mysqlolyk.wordpress.com/feed/" htmlUrl="http://mysqlolyk.wordpress.com"/>
+            <outline type="rss" text="Big DBA Head" title="Big DBA Head" xmlUrl="http://www.bigdbahead.com/?feed=rss2" htmlUrl="http://www.bigdbahead.com"/>
+            <outline type="rss" text="Timo is my oasis" title="Timo is my oasis" xmlUrl="http://zauc.wordpress.com/feed/" htmlUrl="http://zauc.wordpress.com"/>
+            <outline type="rss" text="VN" title="VN" xmlUrl="http://vnwrites.blogspot.com/feeds/posts/default" htmlUrl="http://vnwrites.blogspot.com/"/>
+            <outline type="rss" text="Sergey Petrunia's blog" title="Sergey Petrunia's blog" xmlUrl="http://s.petrunia.net/blog/?feed=rss2" htmlUrl="http://s.petrunia.net/blog"/>
+            <outline type="rss" text="Eric Bergen" title="Eric Bergen" xmlUrl="http://ebergen.net/wordpress/feed/" htmlUrl="http://ebergen.net/wordpress"/>
+            <outline type="rss" text="Database Replication" title="Database Replication" xmlUrl="http://codership.blogspot.com/feeds/posts/default" htmlUrl="http://codership.blogspot.com/"/>
+        </outline>
+        <outline text="程序牛人" title="程序牛人">
+            <outline type="rss" text="学习，思考，记录，分享。" title="学习，思考，记录，分享。" xmlUrl="http://blog.csdn.net/livelylittlefish/rss/list" htmlUrl="http://blog.csdn.net/livelylittlefish"/>
+            <outline type="rss" text="Paul E. McKenney's Journal" title="Paul E. McKenney's Journal" xmlUrl="http://paulmck.livejournal.com/data/rss" htmlUrl="http://paulmck.livejournal.com/"/>
+            <outline type="rss" text="The View from Aristeia" title="The View from Aristeia" xmlUrl="http://scottmeyers.blogspot.com/feeds/posts/default" htmlUrl="http://scottmeyers.blogspot.com/"/>
+            <outline type="rss" text="Banu Blog" title="Banu Blog" xmlUrl="https://banu.com/blog/feed/" htmlUrl="https://banu.com/blog/"/>
+            <outline type="rss" text="阿四的日志" title="阿四的日志" xmlUrl="http://a-shi.org/feed/"/>
+            <outline type="rss" text="Bad Concurrency" title="Bad Concurrency" xmlUrl="http://bad-concurrency.blogspot.com/feeds/posts/default" htmlUrl="http://bad-concurrency.blogspot.com/"/>
+            <outline type="rss" text="Todd Hoff's Blog - Thoughts Made Words" title="Todd Hoff's Blog - Thoughts Made Words" xmlUrl="http://possibility.com/blog/rss.xml" htmlUrl="http://possibility.com/blog/frontpage"/>
+            <outline type="rss" text="High Scalability" title="High Scalability" xmlUrl="http://feeds.feedburner.com/HighScalability" htmlUrl="http://highscalability.com/blog/"/>
+            <outline type="rss" text="酷壳 - CoolShell.cn" title="酷壳 - CoolShell.cn" xmlUrl="http://coolshell.cn/feed" htmlUrl="http://coolshell.cn"/>
+        </outline>
+        <outline text="open source" title="open source">
+            <outline type="rss" text="Simon Phipps's blog" title="Simon Phipps's blog" xmlUrl="http://www.infoworld.com/blogs/simon-phipps/feed" htmlUrl="http://www.infoworld.com/d/open-source-software/blogs"/>
+        </outline>
+        <outline text="PostgreSQL" title="PostgreSQL">
+            <outline type="rss" text="High Performance PostgreSQL" title="High Performance PostgreSQL" xmlUrl="http://highperfpostgres.com/feed/" htmlUrl="http://highperfpostgres.com"/>
+            <outline type="rss" text="Bruce Momjian: General Blog" title="Bruce Momjian: General Blog" xmlUrl="http://momjian.us/main/rss/blog.xml" htmlUrl="http://momjian.us/main/blogs/blog.html"/>
+            <outline type="rss" text="Relational Database Technologies" title="Relational Database Technologies" xmlUrl="http://raghavt.blogspot.com/feeds/posts/default" htmlUrl="http://raghavt.blogspot.com/"/>
+            <outline type="rss" text="Robert Haas" title="Robert Haas" xmlUrl="http://rhaas.blogspot.com/feeds/posts/default" htmlUrl="http://rhaas.blogspot.com/"/>
+            <outline type="rss" text="Planet PostgreSQL" title="Planet PostgreSQL" xmlUrl="http://planet.postgresql.org/rss20.xml" htmlUrl="http://planet.postgresql.org"/>
+            <outline type="rss" text="Database Soup" title="Database Soup" xmlUrl="http://www.databasesoup.com/feeds/posts/default" htmlUrl="http://www.databasesoup.com/"/>
+        </outline>
+        <outline text="oracle" title="oracle">
+            <outline type="rss" text="All Things Oracle" title="All Things Oracle" xmlUrl="http://allthingsoracle.com/feed/" htmlUrl="http://allthingsoracle.com"/>
+            <outline type="rss" text="Oracle Scratchpad" title="Oracle Scratchpad" xmlUrl="http://jonathanlewis.wordpress.com/feed/" htmlUrl="http://jonathanlewis.wordpress.com"/>
+            <outline type="rss" text="The Tom Kyte Blog" title="The Tom Kyte Blog" xmlUrl="http://tkyte.blogspot.com/atom.xml" htmlUrl="http://tkyte.blogspot.com/"/>
+            <outline type="rss" text="Structured Data" title="Structured Data" xmlUrl="http://structureddata.org/feed/" htmlUrl="http://structureddata.org"/>
+            <outline type="rss" text="Kevin Closson's Blog: Platforms, Databases and Storage" title="Kevin Closson's Blog: Platforms, Databases and Storage" xmlUrl="http://kevinclosson.wordpress.com/feed/" htmlUrl="http://kevinclosson.wordpress.com"/>
+            <outline type="rss" text="Inside Oracle - Julian Dyke" title="Inside Oracle - Julian Dyke" xmlUrl="http://juliandyke.wordpress.com/feed/"/>
+            <outline type="rss" text="Timur Akhmadeev's blog" title="Timur Akhmadeev's blog" xmlUrl="http://timurakhmadeev.wordpress.com/feed/" htmlUrl="http://timurakhmadeev.wordpress.com"/>
+            <outline type="rss" text="Latch, mutex and beyond" title="Latch, mutex and beyond" xmlUrl="http://andreynikolaev.wordpress.com/feed/" htmlUrl="http://andreynikolaev.wordpress.com"/>
+        </outline>
+        <outline text="alibaba" title="alibaba">
+            <outline type="rss" text="Oracle深入研究" title="Oracle深入研究" xmlUrl="http://space.itpub.net/321157/action-rss-type-blog" htmlUrl="http://space.itpub.net/321157"/>
+            <outline type="rss" text="MKing's Blog" title="MKing's Blog" xmlUrl="http://blog.csdn.net/yzsind/rss/list" htmlUrl="http://blog.csdn.net/yzsind"/>
+            <outline type="rss" text="AnySQL.net" title="AnySQL.net" xmlUrl="http://www.anysql.net/feed" htmlUrl="http://www.anysql.net"/>
+            <outline type="rss" text="Hello Database" title="Hello Database" xmlUrl="http://www.hellodb.net/feed" htmlUrl="http://www.hellodb.net"/>
+            <outline type="rss" text="a db thinker's home" title="a db thinker's home" xmlUrl="http://www.dbthink.com/?feed=rss2" htmlUrl="http://www.dbthink.com"/>
+        </outline>
+        <outline text="system" title="system">
+            <outline type="rss" text="Ulrich Drepper" title="Ulrich Drepper" xmlUrl="http://udrepper.livejournal.com/data/rss" htmlUrl="http://udrepper.livejournal.com/"/>
+            <outline type="rss" text="Scout ~ The Blog" title="Scout ~ The Blog" xmlUrl="http://feeds.feedburner.com/scoutapp" htmlUrl="http://blog.scoutapp.com/"/>
+            <outline type="rss" text="dtrace.org" title="dtrace.org" xmlUrl="http://dtrace.org/blogs/feed/" htmlUrl="http://dtrace.org/blogs"/>
+            <outline type="rss" text="Bill Pijewski's Blog" title="Bill Pijewski's Blog" xmlUrl="http://dtrace.org/blogs/wdp/feed/" htmlUrl="http://dtrace.org/blogs/wdp"/>
+            <outline type="rss" text="淘宝内核组  - 最近更改 [zh-hans]" title="淘宝内核组  - 最近更改 [zh-hans]" xmlUrl="http://kernel.taobao.org/index.php?title=%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom" htmlUrl="http://kernel.taobao.org/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9"/>
+            <outline type="rss" text="Erlang非业余研究" title="Erlang非业余研究" xmlUrl="http://blog.yufeng.info/feed" htmlUrl="http://blog.yufeng.info"/>
+            <outline type="rss" text="Jens Axboe's blog" title="Jens Axboe's blog" xmlUrl="http://axboe.livejournal.com/data/rss" htmlUrl="http://axboe.livejournal.com/"/>
+            <outline type="rss" text="IOPs Calculator and RAID Calculators / Estimators | Techish.net" title="IOPs Calculator and RAID Calculators / Estimators | Techish.net" xmlUrl="http://www.techish.net/feed/" htmlUrl="http://www.techish.net"/>
+            <outline type="rss" text="Calculate IOPS in a storage array | TechRepublic" title="Calculate IOPS in a storage array | TechRepublic" xmlUrl="http://www.techrepublic.com/blog/datacenter?mode=rss" htmlUrl="http://www.techrepublic.com/blog/datacenter"/>
+            <outline type="rss" text="Brendan's blog" title="Brendan's blog" xmlUrl="http://dtrace.org/blogs/brendan/feed/" htmlUrl="http://dtrace.org/blogs/brendan"/>
+            <outline type="rss" text="Alex on Linux" title="Alex on Linux" xmlUrl="http://www.alexonlinux.com/feed" htmlUrl="http://www.alexonlinux.com"/>
+            <outline type="rss" text="The Wall" title="The Wall" xmlUrl="http://bdgregg.blogspot.com/feeds/posts/default" htmlUrl="http://bdgregg.blogspot.com/"/>
+        </outline>
+        <outline text="system programming" title="system programming">
+            <outline type="rss" text="刘未鹏|C++的罗浮宫" title="刘未鹏|C++的罗浮宫" xmlUrl="http://blog.csdn.net/pongba/rss/list" htmlUrl="http://blog.csdn.net/pongba"/>
+            <outline type="rss" text="&lt;div class='handwriting'&gt;Andrei Alexandrescu, PhD&lt;/div&gt; - News" title="&lt;div class='handwriting'&gt;Andrei Alexandrescu, PhD&lt;/div&gt; - News" xmlUrl="http://erdani.com/index.php/tools/packages/easy_news/rss?c=78" htmlUrl="http://erdani.com/index.php/tools/packages/easy_news/SITE_URL"/>
+            <outline type="rss" text="Thinking Parallel" title="Thinking Parallel" xmlUrl="http://www.thinkingparallel.com/feed/" htmlUrl="http://www.thinkingparallel.com"/>
+            <outline type="rss" text="刘未鹏 | Mind Hacks" title="刘未鹏 | Mind Hacks" xmlUrl="http://mindhacks.cn/feed/" htmlUrl="http://mindhacks.cn"/>
+            <outline type="rss" text="qb_2008的专栏" title="qb_2008的专栏" xmlUrl="http://blog.csdn.net/qb_2008/rss/list" htmlUrl="http://blog.csdn.net/qb_2008"/>
+            <outline type="rss" text="并行实验室 | Parallel Labs" title="并行实验室 | Parallel Labs" xmlUrl="http://www.parallellabs.com/feed/" htmlUrl="http://www.parallellabs.com"/>
+            <outline type="rss" text="网路拾文" title="网路拾文" xmlUrl="http://hi.baidu.com/hilyjiang/rss"/>
+        </outline>
+        <outline text="mysql develop" title="mysql develop">
+            <outline type="rss" text="Transactions on InnoDB" title="Transactions on InnoDB" xmlUrl="http://blogs.innodb.com/wp/feed/"/>
+            <outline type="rss" text="Monty Program Group Blog" title="Monty Program Group Blog" xmlUrl="http://blog.montyprogram.com/feed/" htmlUrl="https://blog.mariadb.org"/>
+        </outline>
+        <outline text="tencent" title="tencent">
+            <outline type="rss" text="腾讯CDC" title="腾讯CDC" xmlUrl="http://cdc.tencent.com/?feed=rss2" htmlUrl="http://cdc.tencent.com"/>
+        </outline>
+        <outline text="Google" title="Google">
+            <outline type="rss" text="The Official Google Blog" title="The Official Google Blog" xmlUrl="http://googleblog.blogspot.com/feeds/posts/default" htmlUrl="http://googleblog.blogspot.com/"/>
+            <outline type="rss" text="SearchReSearch" title="SearchReSearch" xmlUrl="http://searchresearch1.blogspot.com/feeds/posts/default" htmlUrl="http://searchresearch1.blogspot.com/"/>
+            <outline type="rss" text="Inside Search" title="Inside Search" xmlUrl="http://insidesearch.blogspot.com/feeds/posts/default" htmlUrl="http://insidesearch.blogspot.com/"/>
+            <outline type="rss" text="Google Research Blog" title="Google Research Blog" xmlUrl="http://googleresearch.blogspot.com/feeds/posts/default" htmlUrl="http://googleresearch.blogspot.com/"/>
+        </outline>
+        <outline text="Database" title="Database">
+            <outline type="rss" text="ACM SIGMOD Blog" title="ACM SIGMOD Blog" xmlUrl="http://wp.sigmod.org/?feed=rss2" htmlUrl="http://wp.sigmod.org"/>
+        </outline>
+        <outline text="职场人生" title="职场人生">
+            <outline type="rss" text="The Paradox of Autonomy and Recognition – thoughts on trust and merit in software team culture | kate{mats}" title="The Paradox of Autonomy and Recognition – thoughts on trust and merit in software team culture | kate{mats}" xmlUrl="http://katemats.com/feed/" htmlUrl="http://katemats.com"/>
+        </outline>
+        <outline text="distribute systems" title="distribute systems">
+            <outline type="rss" text="Paper Trail" title="Paper Trail" xmlUrl="http://the-paper-trail.org/blog/feed/" htmlUrl="http://the-paper-trail.org/blog"/>
+            <outline type="rss" text="All Things Distributed" title="All Things Distributed" xmlUrl="http://www.allthingsdistributed.com/atom.xml" htmlUrl="http://www.allthingsdistributed.com/"/>
+            <outline type="rss" text="armstrong on software" title="armstrong on software" xmlUrl="http://armstrongonsoftware.blogspot.com/feeds/posts/default" htmlUrl="http://armstrongonsoftware.blogspot.com/"/>
+            <outline type="rss" text="Peter Bailis: Highly Available, Seldom Consistent" title="Peter Bailis: Highly Available, Seldom Consistent" xmlUrl="http://feeds.feedburner.com/pbailis" htmlUrl="http://bailis.org/blog"/>
+        </outline>
+        <outline text="顶级牛人博客" title="顶级牛人博客">
+            <outline type="rss" text="Perspectives" title="Perspectives" xmlUrl="http://perspectives.mvdirona.com/SyndicationService.asmx/GetRss" htmlUrl="http://perspectives.mvdirona.com/"/>
+        </outline>
+        <outline text="new technique" title="new technique">
+            <outline type="rss" text="Zorinaq" title="Zorinaq" xmlUrl="http://blog.zorinaq.com/index.php?feed=rss" htmlUrl="http://blog.zorinaq.com/"/>
+            <outline type="rss" text="Wired Enterprise" title="Wired Enterprise" xmlUrl="http://www.wired.com/wiredenterprise/feed/" htmlUrl="http://www.wired.com/wiredenterprise"/>
+        </outline>
+        <outline text="Programming" title="Programming">
+            <outline type="rss" text="  Bartosz Milewski's Programming Cafe | Concurrency, Multicore, C++, Haskell" title="  Bartosz Milewski's Programming Cafe | Concurrency, Multicore, C++, Haskell" xmlUrl="http://bartoszmilewski.com/feed/" htmlUrl="http://bartoszmilewski.com"/>
+            <outline type="rss" text="Future Chips" title="Future Chips" xmlUrl="http://flux7.com/blog/feed"/>
+            <outline type="rss" text="Gustavo Duarte" title="Gustavo Duarte" xmlUrl="http://duartes.org/gustavo/blog/feed" htmlUrl="http://duartes.org/gustavo/blog"/>
+            <outline type="rss" text="Java Concurrency (&amp;c)" title="Java Concurrency (&amp;c)" xmlUrl="http://jeremymanson.blogspot.com/feeds/posts/default" htmlUrl="http://jeremymanson.blogspot.com/"/>
+            <outline type="rss" text="Mechanical Sympathy" title="Mechanical Sympathy" xmlUrl="http://mechanical-sympathy.blogspot.com/feeds/posts/default" htmlUrl="http://mechanical-sympathy.blogspot.com/"/>
+            <outline type="rss" text="Blog Archive | Just Software Solutions - Custom Software Development and Website Development in West Cornwall, UK" title="Blog Archive | Just Software Solutions - Custom Software Development and Website Development in West Cornwall, UK" xmlUrl="http://www.justsoftwaresolutions.co.uk/index.rss" htmlUrl="http://www.justsoftwaresolutions.co.uk/blog/"/>
+            <outline type="rss" text="Preshing on Programming" title="Preshing on Programming" xmlUrl="http://preshing.com/feed" htmlUrl="http://preshing.com/"/>
+            <outline type="rss" text="Sijin Joseph – Blog" title="Sijin Joseph – Blog" xmlUrl="http://sijinjoseph.com/feed/" htmlUrl="http://sijinjoseph.com"/>
+            <outline type="rss" text="0xjfdube" title="0xjfdube" xmlUrl="http://jfdube.wordpress.com/feed/" htmlUrl="http://jfdube.wordpress.com"/>
+            <outline type="rss" text="C++ and Beyond" title="C++ and Beyond" xmlUrl="http://cppandbeyond.com/feed/" htmlUrl="http://cppandbeyond.com"/>
+            <outline type="rss" text="cbloom rants" title="cbloom rants" xmlUrl="http://cbloomrants.blogspot.com/feeds/posts/default" htmlUrl="http://cbloomrants.blogspot.com/"/>
+            <outline type="rss" text="1024cores" title="1024cores" xmlUrl="http://feeds.feedburner.com/1024cores" htmlUrl="http://blog.1024cores.net/"/>
+        </outline>
+        <outline type="rss" text="Barking Up The Wrong Tree" title="Barking Up The Wrong Tree" xmlUrl="http://www.bakadesuyo.com/feed/" htmlUrl="http://www.bakadesuyo.com"/>
+        <outline type="rss" text="ivarch.com: Coding Comments" title="ivarch.com: Coding Comments" xmlUrl="http://www.ivarch.com/blogs/oss/atom.xml" htmlUrl="http://www.ivarch.com/blogs/oss/"/>
+        <outline type="rss" text="Highly Scalable Blog | Articles on Big Data, HPC, and Highly Scalable Software Engineering" title="Highly Scalable Blog | Articles on Big Data, HPC, and Highly Scalable Software Engineering" xmlUrl="http://highlyscalable.wordpress.com/feed/" htmlUrl="http://highlyscalable.wordpress.com"/>
+        <outline type="rss" text="ACM Queue | Architecting Tomorrow's Computing" title="ACM Queue | Architecting Tomorrow's Computing" xmlUrl="http://queue.acm.org/blog/?feed=rss2" htmlUrl="http://queue.acm.org/blog"/>
+        <outline type="rss" text="codecentric Blog | Expertenwissen rund um agile Softwareentwicklung, Java und Performance Solutions.codecentric Blog | Expertenwissen rund um agile Softwareentwicklung, Java und Performance Solutions." title="codecentric Blog | Expertenwissen rund um agile Softwareentwicklung, Java und Performance Solutions.codecentric Blog | Expertenwissen rund um agile Softwareentwicklung, Java und Performance Solutions." xmlUrl="http://blog.codecentric.de/en/feed/" htmlUrl="http://blog.codecentric.de/en/"/>
+        <outline type="rss" text="Java Tutorial Blog" title="Java Tutorial Blog" xmlUrl="http://javapapers.com/feed/" htmlUrl="http://javapapers.com"/>
+    </body>
+</opml>
