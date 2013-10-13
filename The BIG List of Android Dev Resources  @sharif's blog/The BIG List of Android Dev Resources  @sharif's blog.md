@@ -3,7 +3,6 @@
   <title>Evernote Export</title>
   <basefont face="Tahoma" size="2" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-  <meta name="exporter-version" content="Evernote Windows/261682 (zh-CN); Windows/6.1.7601 Service Pack 1;"/>
   <style>
     body, td {
       font-family: Tahoma;
@@ -140,5 +139,3 @@ In this post, I have given only those libraries that are used on a daily basis a
 
 [Vogella Useful Android Libs ](http://www.vogella.com/articles/AndroidUsefulLibraries/article.html)
 
-			** **</div></div></div></div>
-</div></body></html>
