@@ -1,25 +1,9 @@
-Date: Sun, 13 Oct 2013 21:32:24 +0800
-Message-ID: <00010c98$b4451700$29673f38$EverNote>
-MIME-Version: 1.0
-Content-Type: multipart/related; 
-	boundary="----=_NextPart_0001_0C98_A6DD7D38.C2D98BC9"
-X-Mailer: Evernote® v5.00.1.1174
-
-This is a multi-part message in MIME format.
-
-------=_NextPart_0001_0C98_A6DD7D38.C2D98BC9
-Content-Type: text/html; 
-	charset="utf-8"
-Content-Transfer-Encoding: quoted-printable
-
 <html>
 <head>
   <title>Evernote Export</title>
-  <basefont face=3D"Tahoma" size=3D"2" />
-  <meta http-equiv=3D"Content-Type" =
-content=3D"text/html;charset=3Dutf-8" />
-  <meta name=3D"exporter-version" content=3D"Evernote Windows/261682 =
-(zh-CN); Windows/6.1.7601 Service Pack 1;"/>
+  <basefont face="Tahoma" size="2" />
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="exporter-version" content="Evernote Windows/261682 (zh-CN); Windows/6.1.7601 Service Pack 1;"/>
   <style>
     body, td {
       font-family: Tahoma;
@@ -28,276 +12,133 @@ content=3D"text/html;charset=3Dutf-8" />
   </style>
 </head>
 <body>
-<a name=3D"2359"/>
+<a name="2359"/>
 
-<div>=0A<div><div><div><div><div>
+<div>
+<div><div><div><div><div>
 
-# **T**he BIG List of Android Dev =
-Resources**=C2=A0**
-</div>=0A		=0A=0A		=0A			=0A=0A	=0A=0A	=0A		=
+# **T**he BIG List of Android Dev Resources** **
+</div>
 
-This is a compilation of resources related to Android App =
-Development**.**
-=0A
+This is a compilation of resources related to Android App Development**.**
 
-In this post, I have given only those =
-libraries that are used on a daily basis and is a must for every new =
-Android developer to know**.** At the bottom of the post, I have also =
-given links, where you will find libraries which are not mentioned =
-here**.** Enjoy ![3D](3D) =
+In this post, I have given only those libraries that are used on a daily basis and is a must for every new Android developer to know**.** At the bottom of the post, I have also given links, where you will find libraries which are not mentioned here**.** Enjoy ![:)](The BIG List of Android Dev Resources  @sharif) 
 
-=0A
+## **News** **:**
 
-## **News**=C2=A0**:**
-=0A
+<a href="http://androidweekly.net/" shape="rect" target="_blank">Android Weekly </a> – a free newsletter that helps you to stay cutting-edge with your Android Development**.**
 
-<a =
-href=3D"http://androidweekly.net/" shape=3D"rect" =
-target=3D"_blank">Android Weekly </a> =E2=80=93 a free newsletter that =
-helps you to stay cutting-edge with your Android =
-Development**.**
-=0A
+## **Tutorials** **:**
 
-## **Tutorials**=C2=A0**:**</h=
-2>=0A
+[Google Android Developer ](http://developer.android.com/training/index.html)
 
-[Google Android Developer =
-](3D)
-=0A
+[CommonsWare – AdvAndroid ](http://commonsware.com/AdvAndroid/)
 
-[CommonsWare =E2=80=93 AdvAndroid =
-](3D)
-=0A
+[Vogella ](http://www.vogella.com/articles/Android/article.html)
 
-[Vogella ](3D)
-=0A
+[Dzone Javalobby ](http://java.dzone.com/category/tags/android)
 
-[Dzone Javalobby ](3D)
-=0A
+[Java Code Geeks ](http://www.javacodegeeks.com/android/)
 
-[Java Code Geeks =
-](3D)
-=0A<h2>**Architecture**=C2=A0**:**
-=0A
+## **Architecture** **:**
 
-[Ignition ](3D) =E2=80=93 helps you getting your Android =
-applications off the ground quickly, by offering ready-to-use components =
-and utility classes**.**
-=0A
+[Ignition ](https://github.com/kaeppler/ignition) – helps you getting your Android applications off the ground quickly, by offering ready-to-use components and utility classes**.**
 
-[GreenDroid ](3D) =E2=80=93 It is intended to make UI =
-developments easier and consistent through your =
-applications**.**
-=0A
+[GreenDroid ](http://greendroid.cyrilmottier.com) – It is intended to make UI developments easier and consistent through your applications**.**
 
-[Spring For Android ](3D) =E2=80=93 an extension of the =
-Spring Framework that aims to simplify the development of native Android =
-applications**.**
-=0A
+[Spring For Android ](http://projects.spring.io/spring-android/) – an extension of the Spring Framework that aims to simplify the development of native Android applications**.**
 
-[DroidParts ](3D) =E2=80=93 a framework =
-that includes DI, ORM, Logging, Rest Client and =
-more**.**
-=0A
+[DroidParts ](http://droidparts.org/) – a framework that includes DI, ORM, Logging, Rest Client and more**.**
 
-## **ORM**=C2=A0**:**
-=0A
+## **ORM** **:**
 
-[OrmLite ](3D) =E2=80=93 provides some lightweight =
-functionality for persisting Java objects to SQL databases
-=0A
+[OrmLite ](http://ormlite.com/sqlite_java_android_orm.shtml) – provides some lightweight functionality for persisting Java objects to SQL databases
 
-[Active Record for Android  ](3D)- lightweight =
-persistence library for Android**.**
-=0A
+[Active Record for Android  ](http://code.google.com/p/android-active-record/)- lightweight persistence library for Android**.**
 
-[GreenDao ](3D) =E2=80=93 open source project to help =
-Android developers working with data stored in =
-SQLite**.**
-=0A
+[GreenDao ](http://greendao-orm.com/) – open source project to help Android developers working with data stored in SQLite**.**
 
-## **Design**=C2=A0**:**
-=0A
+## **Design** **:**
 
-=
-[Android Patterns ](3D) =E2=80=93 a set of interaction =
-patterns that can help you design Android apps**.**
-=0A
+[Android Patterns ](http://www.androidpatterns.com/) – a set of interaction patterns that can help you design Android apps**.**
 
-[Google Android Design Guide ](3D) =E2=80=93 official =
-android design guide by google**.**
-=0A
+[Google Android Design Guide ](http://developer.android.com/design/index.html) – official android design guide by google**.**
 
-[Android App Patterns ](3D) =E2=80=93 1225 app =
-screenshots in 29 categories all in one**.**
-=0A
+[Android App Patterns ](http://www.android-app-patterns.com/) – 1225 app screenshots in 29 categories all in one**.**
 
-[Android 4**.**0 Design Startkit ](3D) =E2=80=93 some =
-startkit Photoshop PSD=E2=80=99s**.**
-=0A
+[Android 4**.**0 Design Startkit ](http://www.androiddesign.info/) – some startkit Photoshop PSD’s**.**
 
-[Android Niceties ](3D) =E2=80=93 a collection of =
-screenshots encompassing some of the most beautiful looking Android =
-apps**.**
-=0A
+[Android Niceties ](http://androidniceties.tumblr.com/) – a collection of screenshots encompassing some of the most beautiful looking Android apps**.**
 
-[Android Holo Colors Generator ](3D) =
-=E2=80=93 allows you to easily create Android components with your own =
-colors for your Android application**.**
-=0A
+[Android Holo Colors Generator ](http://android-holo-colors.com/) – allows you to easily create Android components with your own colors for your Android application**.**
 
-[ICS Apps ](3D) =E2=80=93 icecream sandwich app =
-screenshots**.**
-=0A
+[ICS Apps ](http://ics-apps.tumblr.com/) – icecream sandwich app screenshots**.**
 
-## **Dependency =
-Injection**=C2=A0**:**
-=0A
+## **Dependency Injection** **:**
 
-[RoboGuice ](3D) =E2=80=93 smoothes out some of the =
-wrinkles in your Android development and slims down your application =
-code**.**
-=0A
+[RoboGuice ](https://github.com/roboguice/roboguice) – smoothes out some of the wrinkles in your Android development and slims down your application code**.**
 
-[Android Annotations ](3D) =E2=80=93 it =
-takes care of the plumbing, and lets you concentrate on what=E2=80=99s =
-really important**.** By simplifying your code, it facilitates its =
-maintenance**.**
-=0A
+[Android Annotations ](http://androidannotations.org/) – it takes care of the plumbing, and lets you concentrate on what’s really important**.** By simplifying your code, it facilitates its maintenance**.**
 
-## **Networking**=C2=A0**:**</=
-h2>=0A
+## **Networking** **:**
 
-[Loopj ](3D) =E2=80=93 an asynchronous callback-based =
-Http client for Android**.**
-=0A
+[Loopj ](http://loopj.com/android-async-http/) – an asynchronous callback-based Http client for Android**.**
 
-[Volley ](3D) =E2=80=93 it manages the =
-processing and caching of network requests and it saves developers =
-valuable time from writing the same network call/cache code again and =
-again**.**
-=0A<h2>**UI**=C2=A0**:**
-=0A
+[Volley ](http://java.dzone.com/articles/android-%E2%80%93-volley-library) – it manages the processing and caching of network requests and it saves developers valuable time from writing the same network call/cache code again and again**.**
 
-[ActionBarSherlock ](3D) =E2=80=93 designed to =
-facilitate the use of the action bar design pattern across all versions =
-of Android with a single API**.**
-=0A
+## **UI** **:**
 
-[NineOldAndroids ](3D) =E2=80=93 library for using the =
-Honeycomb (Android 3**.**0) animation API on all versions of the =
-platform back to 1**.**0.
-=0A
+[ActionBarSherlock ](http://actionbarsherlock.com) – designed to facilitate the use of the action bar design pattern across all versions of Android with a single API**.**
 
-[Pull To Refresh ](3D) =E2=80=93 this =
-project aims to provide a reusable Pull to Refresh widget for =
-Android**.**
-=0A
+[NineOldAndroids ](http://nineoldandroids.com) – library for using the Honeycomb (Android 3**.**0) animation API on all versions of the platform back to 1**.**0.
 
-[Android Validator ](3D) =E2=80=93 form validator =
-library**.**
-=0A
+[Pull To Refresh ](https://github.com/chrisbanes/Android-PullToRefresh) – this project aims to provide a reusable Pull to Refresh widget for Android**.**
 
-[Progress Wheel ](3D) =E2=80=93 a custom component for =
-Android intended for use instead of a progress bar**.**
-=0A
+[Android Validator ](https://github.com/throrin19/Android-Validator) – form validator library**.**
 
-[Scroll Bar Panel ](3D) =E2=80=93 allows to attach a =
-View to a scroll indicator**.**
-=0A
+[Progress Wheel ](https://github.com/Todd-Davies/ProgressWheel) – a custom component for Android intended for use instead of a progress bar**.**
 
-[View Page Indicator ](3D) =E2=80=93 widgets compatible =
-with the `ViewPager` from the Android Support Library and =
-ActionBarSherlock**.**
-=0A
+[Scroll Bar Panel ](https://github.com/rno/Android-ScrollBarPanel) – allows to attach a View to a scroll indicator**.**
 
-[View Badger ](3D) =E2=80=93 a simple way to =
-=E2=80=9Cbadge=E2=80=9D any given Android view at =
-runtime**.**
-=0A
+[View Page Indicator ](http://viewpagerindicator.com) – widgets compatible with the `ViewPager` from the Android Support Library and ActionBarSherlock**.**
 
-[Universal Image Loader ](3D) =E2=80=93 =
-powerful and flexible instrument for asynchronous loading, caching and =
-displaying images**.**
-=0A
+[View Badger ](https://github.com/jgilfelt/android-viewbadger) – a simple way to “badge” any given Android view at runtime**.**
 
-[ColorPicker ](3D) =E2=80=93 to create =
-color picker in preferences**.**
-=0A
+[Universal Image Loader ](https://github.com/nostra13/Android-Universal-Image-Loader) – powerful and flexible instrument for asynchronous loading, caching and displaying images**.**
 
-[Segmented Radio Button ](3D) =E2=80=93 =
-implementation of iPhone=E2=80=99s segmented control**.**
-=0A
+[ColorPicker ](https://github.com/attenzione/android-ColorPickerPreference) – to create color picker in preferences**.**
 
-[PhotoView ](3D) =E2=80=93 implementation of ImageView =
-that supports zooming, by various touch gestures**.**
-=0A
+[Segmented Radio Button ](https://github.com/vinc3m1/android-segmentedradiobutton) – implementation of iPhone’s segmented control**.**
 
-[Smart Image View ](3D) =E2=80=93 =
-ImageView replacement which allows image loading from URLs or contact =
-address book, with caching**.**
-=0A
+[PhotoView ](https://github.com/chrisbanes/PhotoView) – implementation of ImageView that supports zooming, by various touch gestures**.**
 
-[Android Lock Pattern ](3D) =E2=80=93 users can define =
-their own lock pattern =E2=80=92 which is a combination of 4+ =
-dots**.**
-=0A
+[Smart Image View ](https://github.com/loopj/android-smart-image-view) – ImageView replacement which allows image loading from URLs or contact address book, with caching**.**
 
-## **Testing**=C2=A0**:**
-=0A
+[Android Lock Pattern ](https://code.google.com/p/android-lockpattern/) – users can define their own lock pattern ‒ which is a combination of 4+ dots**.**
 
-<=
-a href=3D"http://code.google.com/p/android-mock" shape=3D"rect" =
-target=3D"_blank">Android Mock </a> =E2=80=93 a framework for mocking =
-interfaces and classes on the Dalvik VM**.**
-=0A
+## **Testing** **:**
 
-[Robotium ](3D) =E2=80=93 test automation framework that =
-has full support for native and hybrid =
-applications**.**
-=0A
+[Android Mock ](http://code.google.com/p/android-mock) – a framework for mocking interfaces and classes on the Dalvik VM**.**
 
-## **Tools**=C2=A0**:**
-=0A=
+[Robotium ](http://code.google.com/p/robotium/) – test automation framework that has full support for native and hybrid applications**.**
 
-[Application Crash Report =E2=80=93 ACRA ](3D) =E2=80=93 =
-a library enabling Android Application to automatically post their crash =
-reports to a GoogleDoc form**.**
-=0A
+## **Tools** **:**
 
-[Android Studio ](3D) =E2=80=93 a new =
-Android development environment based on IntelliJ =
-IDEA**.**
-=0A
+[Application Crash Report – ACRA ](https://github.com/ACRA/acra) – a library enabling Android Application to automatically post their crash reports to a GoogleDoc form**.**
+
+[Android Studio ](http://developer.android.com/sdk/installing/studio.html) – a new Android development environment based on IntelliJ IDEA**.**
 
 ## **Hungry for more?**
-=0A
 
-[App Dev Wiki](3D)
-=0A
+[App Dev Wiki](http://appdevwiki.com/wiki/show/HomePage#android_libraries)
 
-[Android Views ](3D)
-=0A
+[Android Views ](http://www.androidviews.net/)
 
-[Open Intents Android Libraries ](3D)
-=0A
+[Open Intents Android Libraries ](http://www.openintents.org/en/libraries)
 
-[Basic4Android Wiki ](3D)
-=0A
+[Basic4Android Wiki ](http://www.basic4ppc.com/android/wiki/index.php/Libraries)
 
-[Vogella Useful Android Libs =
-](3D)
-=0A			=
-**=C2=A0**</div></div></div></div>=0A</div></body></html>
+[Vogella Useful Android Libs ](http://www.vogella.com/articles/AndroidUsefulLibraries/article.html)
 
-------=_NextPart_0001_0C98_A6DD7D38.C2D98BC9
-Content-Type: image/gif
-Content-Transfer-Encoding: base64
-Content-Location: The BIG List of Android Dev Resources  @sharif's blog_files/Image.gif
-
-R0lGODlhDwAPALMOAP/qAEVFRQAAAP/OAP/JAP+0AP6dAP/+k//9E///////xzMzM///6//lAAAA
-AAAAACH5BAEAAA4ALAAAAAAPAA8AAARb0EkZap3YVabOGRcWcAgCnIMRTEEnCCfwpqt2mHEOagoO
-nz+CKnADxoKFyiHHBBCSAdOiCVg8KwPZa7sVrgJZQWI8FhB2msGgwTXTWGqCXP4WBQr4wjDDstQm
-EQA7
-
-------=_NextPart_0001_0C98_A6DD7D38.C2D98BC9--
+			** **</div></div></div></div>
+</div></body></html>
