@@ -1,5 +1,6 @@
-# **T**he BIG List of Android Dev Resources** **
+# **T**he BIG List of Android Dev Resources
 
+[原文地址](http://pragmaticsharif.wordpress.com/2013/10/06/android-resources/)
 
 This is a compilation of resources related to Android App Development
 
