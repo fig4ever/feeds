@@ -4,7 +4,7 @@
 
 This is a compilation of resources related to Android App Development
 
-In this post, I have given only those libraries that are used on a daily basis and is a must for every new Android developer to know At the bottom of the post, I have also given links, where you will find libraries which are not mentioned here Enjoy ![:)](The BIG List of Android Dev Resources  @sharif) 
+In this post, I have given only those libraries that are used on a daily basis and is a must for every new Android developer to know At the bottom of the post, I have also given links, where you will find libraries which are not mentioned here Enjoy !(The BIG List of Android Dev Resources  @sharif) 
 
 ## **News** **:**
 
